@@ -6,7 +6,7 @@ Resources for Microprocessor & Microcontroller
   - [Tutorialspoint](https://www.tutorialspoint.com/microprocessor/index.htm)
   
 - Course on NPTEL
-  -[Microprocessors And Microcontrollers by Prof. Santanu Chattopadhyay - IIT Kharagpur](https://nptel.ac.in/courses/108/105/108105102/)
+  - [Microprocessors And Microcontrollers by Prof. Santanu Chattopadhyay - IIT Kharagpur](https://nptel.ac.in/courses/108/105/108105102/)
   
 - Books
   - The 8051 Microcontroller and Embedded Systems by Muhammad Ali Mazidi, Janice Gillispie Mazidi & Rolin D. McKinlay
